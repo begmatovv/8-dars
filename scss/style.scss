@@ -1,0 +1,13 @@
+@import './variables';
+
+body {
+  background-color: $body-bg;
+}
+h1 {
+  font-style: italic;
+  background-color: $h1-bg;
+  text-decoration: underline;
+}
+p {
+  color: $h1-bg;
+}
